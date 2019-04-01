@@ -1,8 +1,8 @@
-- stage: Deploy iOS 🍏
-  language: node_js
-  node_js: 8.5.0
-  os: osx
-  osx_image: xcode9.2
+     - stage: Deploy iOS 
+       language: node_js
+       node_js: 8.5.0
+       os: osx
+       osx_image: xcode9.2
        cache:
          yarn: true
          directories:
