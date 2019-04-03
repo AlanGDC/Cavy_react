@@ -17,3 +17,4 @@
        script:
          - react-native start --reset-cache &
          - cavy run-ios
+         
