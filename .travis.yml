@@ -1,7 +1,6 @@
 
        os: osx
        osx_image: xcode10.1
-       xcode_destination: platform=iOS Simulator,OS=11.3,name=iPhone X
        node_js: 10
        cache:
          yarn: true
