@@ -26,7 +26,7 @@
         components:
           # - tools
           # - platform-tools
-          # - android-$EMULATOR_API
+           - android-$EMULATOR_API
           # - build-tools-$ANDROID_BUILD_TOOLS
           # - extra-android-support
           # - extra-android-m2repository
